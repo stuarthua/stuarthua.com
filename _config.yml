@@ -1,0 +1,31 @@
+# Site settings
+title: Stuart Hua's Site
+auther: Stuart Hua
+description: "Stuart Hua | Software Engineer, Programmer"
+url: "https://stuarthua.com"
+
+# Contacts
+bottom_link:
+  github: stuarthua
+  mail: me@stuarthua.com
+  # telegram: stuarthua
+
+# SEO
+## Google Analytics
+ga_track_id: 'UA-55082727-5'
+
+# Advanced settings
+markdown: kramdown
+encoding: utf-8
+assets: /assets
+collections:
+  docs:
+    output: true
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - deploy

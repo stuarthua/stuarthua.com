@@ -1,0 +1,10 @@
+# vscode
+.vscode/
+
+# files
+.sass-cache
+
+# folders
+.jekyll-cache/
+.jekyll-metadata/
+_site/

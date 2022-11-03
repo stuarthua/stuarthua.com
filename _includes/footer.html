@@ -1,0 +1,20 @@
+<footer class="content">
+  <div class="wrap">
+    <p>
+      {% if site.bottom_link.github %}
+      <a href="https://github.com/{{ site.bottom_link.github }}"><span class="icon-github"></span></a>
+      {% endif %} {% if site.bottom_link.mail %}
+      <a href="mailto:{{ site.bottom_link.mail }}"><span class="icon-mail"></span></a>
+      {% endif %} {% if site.bottom_link.telegram %}
+      <a href="https://t.me/{{ site.bottom_link.telegram }}"><span class="icon-telegram"></span></a>
+      {% endif %}
+    </p>
+    
+    <p>
+      <a href="{{ site.url }}">{{ site.auther }}</a>&nbsp;&copy;{{ site.time | date: "%Y" }}
+      <!-- &nbsp;&nbsp;|
+      <a class="beian" target="_blank" href="http://beian.miit.gov.cn">沪 ICP 备 18001115 号</a> -->
+    </p>
+  
+  </div>
+</footer>
