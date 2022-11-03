@@ -19,6 +19,7 @@ cd _site
 
 # Git init & add files
 git init
+git branch -m master gh-pages
 git add -A
 
 # Git commit changes
@@ -29,8 +30,9 @@ fi
 git commit -m "$msg"
 
 # 推送到 github
-# stuarthua.github.io 只能使用 master 分支
-git push -f git@github.com:stuarthua/stuarthua.com.git master
+git remote add origin git@github.com:stuarthua/stuarthua.com.git
+# git push --set-upstream origin gh-pages
+git push -u origin gh-pages -f
 
 # 回到原文件夹
 cd ..
