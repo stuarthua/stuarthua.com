@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/stuarthua
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://stuarthua.com
+  * I am stuarthua (https://keybase.io/stuarthua) on keybase.
+  * I have a public key with fingerprint 3FD5 9211 7552 81ED 72AA  C20B 8B8F 87A5 D46D AAC2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b9eb4783ea7726e39212d6d541b80769a2fada75e6f3c4cdccca45094e821ca00a",
+      "fingerprint": "3fd59211755281ed72aac20b8b8f87a5d46daac2",
+      "host": "keybase.io",
+      "key_id": "8b8f87a5d46daac2",
+      "kid": "01018b7b9d3deea990a56cf2e88c9d8847a318f1bf38cbad977b949be1a24aee0ca40a",
+      "uid": "d751f08b2c591273fff077d377fef819",
+      "username": "stuarthua"
+    },
+    "service": {
+      "hostname": "stuarthua.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1667994091,
+  "expire_in": 157680000,
+  "prev": "1689dbef1f419ac84ba59e0a20e84ed40878689e70b8b499550411703c444161",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtkn1MHEUYxg84kK9qzw+Ekka71gpKyM7e7s3uoT0ILW0QpNVakKLn7O4snMDd
+cR8Ikn5gldJihFLwFC1YUixCCCI0glBbkEJE1CZcgYqSyCH9IE1RaQm0grtE/jHO
+P5t59/c887zzTsU6H5W/V1n5kQZ3blOf1/fXeZWQXelVRPAWsZDQFxHZePWDc0Rs
+dxizTSKhJ0hAkTyHeRqyWowgpHRYy1GAEnUiQwOeJaGOQ5SERAQZrJO0Ai2IgiAg
+miE5GrMUEBBJIiKKkEzmTGyz2kxmh2yrlURGtgGQYSgWYBFSCAnySSzPSixEjEjr
+RKUiC7MsdkUhh+ORHUebLHJN3hhX4/0Pv5abBCwPeU7UihgjjiMRoxMkCrOswIks
+S0OkBawEeEnLCjwSOSizNMdjgCgaYUzKLazmdq7aiZABEsnylMBwgIJaSZJICEUt
+hBKWWMApoB3bzCgXy7Td4UQ2R5YTEfujCLmcbxKwcrNKK/9FogVLrqy22iwOi2DJ
+kX9lORxWu16ROgqtCvsm5o3/uhh5k1mUb1JW5GOb3WQxE3ogk4LDpNgCnQ5yHE1y
+IIrABVaTDRtNCsFAHUvKSzkH58uWQMdyYjqPJSDRgEMCS/OI4TCJKBKzNBZpkoWs
+zGCozITmOIYhaXlcpDxgmgY6QCiN5ZkthB7KOVGm0pIp04wcThsm9gce9daqVV7+
+qo0hm9SGy5Ua54vFN21NfUFrr8/XW3l6qsCA9WuVCPN6lasudmp5sLk9bO/V30Rd
+c2NSuOri3Hc9h9JVPy56usZKHpiqPza7I5o7G68Z1ff8uTvNm7Xf18JkhM4nDGh+
+HwR3jp+nvaxvrYS9VtNRmkqSfhEDE7/O7Ts49W6GesYQOVz7g5/vk0nhnWMpk+Uh
+G2818BNE1QfOkpxz7unnrz2R0pH7U+hiwnF3aOKy73OBxfrWZ5vevw3+mmu/NbX1
+07QHW0tL872bt8T80RNfOXQg8arv0cG786e2afq3z7Td3LcM55PLZ68n31O/QajH
+ofvGiXbj8GxwTVT3WN7O/rmZ4KHTsSXm1LLp5dNfTJ7LZ7OuVL/yteZuckaLtXVE
+u/vty1+eOjRywOfl6fK6lRDcFBTb9uGNgp9d1xYiIjOOCPY4A3BtK5YeTzoonNjw
+8aVg29PaNtVjd4o1nz9StJDud0nvlxw+Uh7q9mw63N51squa8dTv2bDLN6ZitkWd
+euydrxY+2RGW0O0vxXm2eMZVZZNnugM+W5rYE8Qwr5f21pGu+u2NmwdaX3i0u5YK
+u79jOMEZe/b8w3mG8JXGbk1MpzqwNnqxOmfQZT7ZuLNg9r2qiDNVS6MfqTvTogd+
+MfdWfHvP5wrhpjsvTuwtrKGD4QW7NT6zS73ocfUPee9quO2dojaA0aekupy68L9N
+GX1D+vHerS8txVVGzrxq+ObCus2JDz0TEHD4Hw==
+=VvM5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stuarthua
+
+==================================================================
