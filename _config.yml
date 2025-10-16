@@ -26,8 +26,8 @@ collections:
 
 # Exclude from processing.
 exclude:
-  - Gemfile
-  - Gemfile.lock
+  # - Gemfile
+  # - Gemfile.lock
   - LICENSE
   - README.md
-  - deploy
+  - vendor
