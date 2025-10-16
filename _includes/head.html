@@ -1,28 +1,35 @@
 <head>
   <meta charset="UTF-8">
-  <meta name="description" content="{{ site.description }}" />
-  <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="canonical" href="{{ site.url }}">
+
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}" />
 
   <!-- og -->
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:locale" content="{{ site.lang }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:url" content="{{ site.url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="/og-image.jpg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="628">
-  <meta property="og:description" content="{{ site.description }}">
-  <meta property="og:title" content="{{ site.title }}">
-  <meta property="og:url" content="{{ site.url }}">
-  <meta property="og:image" content="/assets/img/og-image.jpg">
+
+  <meta name="twitter:card" content="summary">
+  <meta property="twitter:title" content="{{ site.title }}">
+
+  <link rel="canonical" href="{{ site.url }}">
 
   <!-- icon -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icon/favicon-16x16.png">
-  <link rel="manifest" href="/assets/icon/site.webmanifest">
-  <link rel="mask-icon" href="/assets/icon/safari-pinned-tab.svg" color="#5bbad5">
-  <link rel="shortcut icon" href="/favicon.ico">
-  <meta name="msapplication-TileColor" content="#2d89ef">
-  <meta name="msapplication-config" content="/assets/icon/browserconfig.xml">
-  <meta name="theme-color" content="#ffffff">
+  <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <meta name="apple-mobile-web-app-title" content="Stuart" />
+  <link rel="manifest" href="/site.webmanifest" />
+  <!-- for safari -->
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 
   <!-- css & js -->
   <link rel="stylesheet" href="/assets/css/style.css">

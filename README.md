@@ -6,6 +6,6 @@
 
 deploy
 
-```
+```shell
 ./deploy
 ```
